@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋,Seja-Bem vindo meu nome é Vinicius Nunes</h1>
 <h3 align="center">Estudante Front - End e Entusiasta por tecnologia.</h3>
 
-- 🔭 Atualmente estou trabalhando em **Apenas estudando**
+- 🔭 Atualmente estou trabalhando em **HCL Tecnologies**
 
 - 🌱 Atualmente estou estudando  **HTML,CSS,JS,ANGULAR**
 
