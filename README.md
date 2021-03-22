@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em **HCL Tecnologies**
 
-- 🌱 Atualmente estou estudando  **HTML,CSS,JS,ANGULAR**
+- 🌱 Atualmente estou estudando  **HTML,CSS,JS,*
 
 - 📫 Como me encontrar **v.nunhez27@gmail.com**
 
