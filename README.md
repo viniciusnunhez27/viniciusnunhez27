@@ -7,7 +7,7 @@
 
 - 📫 Como me encontrar **v.nunhez27@gmail.com**
 
-- 📄 Conheça minhas experiências [Conhecimento básico nas tecnlogias FRONT-END porém em constante evolução](Conhecimento básico nas tecnlogias FRONT-END porém em constante evolução)
+- 📄 Conheça minhas experiências [Conhecimento básico nas tecnlogias FRONT-END porém em constante evolução]
 
 - ⚡ Fato engraçado **Estou migrando de Aréa atualmente atuo com analista de service desk.**
 
