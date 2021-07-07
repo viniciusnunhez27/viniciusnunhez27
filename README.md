@@ -1,22 +1,14 @@
-### Bem-Vindo 👋
+### Bem-Vindo  a Minha Página 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
-##<img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Estudante De Desenvolvimento Web !! .
+<img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Estudante De Desenvolvimento Web !! .
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"/>
 
-
-object **Vinicius** {
- val name = "Vinicius Nunes Teixeira da Silva"
- val acknowledgements = "Estudante de Programação Web"
+* Trabalho com Analista de Service Desk.
+* Atualmente trabalhando na minha carreira pessoal.
+* Estudando tecnologias voltadas ao Front-end
  
- 
- 
- val primarySkillset = "ALGUMAS TECNOLOGIAS QUE ANDO ESTUDANDO"
- val languages = listOf ("HTML", "JavaScript", "CSS", "React") 
-
-}
 
 
 ## **Linguagens e Ferramentas:**  
