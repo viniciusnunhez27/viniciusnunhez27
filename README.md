@@ -5,7 +5,9 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"/>
 
-* Trabalho com Analista de Service Desk.
+
+* Moro no Brasil | Rio Grande Do Sul.
+* Trabalho como Analista de Service Desk.
 * Atualmente trabalhando na minha carreira pessoal.
 * Estudando tecnologias voltadas ao Front-end
  
