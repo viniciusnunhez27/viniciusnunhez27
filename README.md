@@ -9,8 +9,7 @@
 * Moro no Brasil | Rio Grande Do Sul.
 * Trabalho como Analista de Service Desk.
 * Atualmente trabalhando na minha carreira pessoal.
-* Estudando tecnologias voltadas ao Front-end
- 
+* Estudando tecnologias voltadas ao Desenvolvimento web Front-End/Back-End .
 
 
 ## **Linguagens e Ferramentas:**  
