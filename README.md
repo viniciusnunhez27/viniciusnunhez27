@@ -17,9 +17,6 @@
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
-<p align="left">
-  <a href="v.nunhez27@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=v.nunhhez27@gmail.com" /></a>
 
   
   <a href="https://www.linkedin.com/in/vinicius-nunes-teixeira-da-silva-02408365/" alt="Linkedin">
