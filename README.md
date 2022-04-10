@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, Meu nome é Vinicius Nunes sou Analista de suporte em fase de transição de carreira para o mundo de desenvolvimento web, buscando evolução continua para se tornar um  <strong>Desenvolvedor Front-End</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá, Meu nome é Vinicius Nunes sou Analista de suporte  e estou estudando e aplicando os conhecimentos para me tornar um  <strong>Desenvolvedor Front-End</strong>.<br>
+ 
 </p>
 
 <p align="left">
