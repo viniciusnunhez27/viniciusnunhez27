@@ -11,7 +11,7 @@
 
 <p align="left">
 Atualmente estudando
-  REACT,SASS
+  BOOTSTRAP,REACT,SASS 
   </p>
 
 <p align="left">
