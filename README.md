@@ -6,12 +6,12 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS , JAVASCRIPT ,GIT. </strong>
+  🦄 Linguagens: <strong>HTML, CSS , JAVASCRIPT ,GIT , BOOTSTRAP,. </strong>
 </p>
 
 <p align="left">
 Atualmente estudando
-  BOOTSTRAP,REACT,SASS 
+REACT,SASS 
   </p>
 
 <p align="left">
