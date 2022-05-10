@@ -10,8 +10,7 @@
 </p>
 
 <p align="left">
-Atualmente estudando
-REACT,SASS 
+
   </p>
 
 <p align="left">
