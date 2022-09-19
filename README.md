@@ -3,7 +3,7 @@
 # Olá! Eu sou Vinicius Nunes
 
 <p align="left"> 
-   Atuo a 7 anos no mercado de tecnlogia atualmente sou analista de suporte e desenvolvo aplicaçoões web     com tecnologias voltadas ao <strong>Front-End</strong>.<br>
+   Atuo a 7 anos no mercado de tecnlogia atualmente sou analista de suporte e desenvolvo aplicaçoões web com tecnologias voltadas ao <strong>Front-End</strong>.<br>
  
 </p>
 
