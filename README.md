@@ -3,7 +3,7 @@
 # Olá! Eu sou Vinicius Nunes
 
 <p align="left"> 
-   Atuo a 10 anos no mercado de tecnlogia atualmente sou analista de suporte e intusista da cultura <strong>DEVOPS</strong>.<br>
+   Atuo a 10 anos no mercado de tecnlogia atualmente sou analista de suporte.<br>
  
 </p>
 
