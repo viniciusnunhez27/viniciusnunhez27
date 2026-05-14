@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there, My name is Vinicius Nunes 👋</h1>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">🔥My Stats :</h3>
+<h3 align="center">🔥My Stats :</h3>
 
 
 <div align="center">
