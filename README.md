@@ -35,6 +35,6 @@
 
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=viniciusnunhez27&theme=highcontrast&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=496" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viniciusnunhez27&theme=highcontrast&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=496)](https://git.io/streak-stats)
 </div>
 
