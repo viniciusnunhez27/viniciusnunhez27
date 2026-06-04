@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=viniciusnunhez27&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=viniciusnunhez27&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/username=viniciusnunhez27&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://githubreadmestats.shion.dev/api/toplangs/username=viniciusnunhez27&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Vinicius&icon=0&color=0)](https://visitcount.itsvg.in)
